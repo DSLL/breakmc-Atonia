@@ -1,0 +1,12 @@
+main: code.Young_Explicit.voting.Main
+name: Voting
+version: 1.0.0
+
+commands:
+  vote:
+    keys:
+      cleardb:
+        votekit:
+	  givekey:
+	    getkeys:
+	    
